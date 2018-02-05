@@ -1,0 +1,81 @@
+h1 {
+	font-family: Bauhaus 93;
+	font-size: 20px;
+	color : pink;
+	background: #f44295;
+}
+
+center {
+	font-family: Bauhaus 93;
+	background: pink;
+	background-image:url(bd2.jpg); background-size:cover;
+	
+	overflow: auto;
+}
+
+left {
+	font-family: Bauhaus 93;
+	background: pink;
+	background-image:url(bd2.jpg); background-size:cover;
+	overflow: auto;
+}
+
+body {
+	background-image:url(bd2.jpg); background-size:cover;
+}
+
+footer {
+	font-family: Bauhaus 93;
+	background: #f44295;
+}
+
+#moto {
+	font-family: Bauhaus 93;
+	font-size: 10px;
+}
+
+.atas {
+    list-style-type: none;
+    margin: 10;
+    padding: 10px 10px 10px 10px;
+    overflow: hidden;
+    background-color: #f44295;
+    color: #ecf0f1;
+    border-radius: 5px;
+}
+
+#atasnya {
+    float: left;
+    margin-left: 70px;
+}
+
+img {
+    width: 140px;
+    height: 140px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+.fk {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.kotak {
+    color: #ecf0f1;
+    font-size: 20pt;
+    /*background: #f44295;*/
+    width: 250px;
+    height: 200px;
+    margin: 10px 10px 10px 10px;
+    float: left;
+}
+
+.kiri {
+    margin-left: 30%;
+}
+
+#rt {
+	width: 220px;
+	height: 220px;
+}
